@@ -13,7 +13,7 @@
 
 1. Создать файл `personal.auto.tfvars` и указать token OAuth
 ```json   
-   yc_auth_token = "y0__..."
+yc_auth_token = "y0__..."
 ```   
 2. В файле `terraform.tfvars` указать облако и папку
 ```json
